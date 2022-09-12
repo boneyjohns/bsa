@@ -1,0 +1,276 @@
+.container{
+    
+    width:1366px;
+    height: 80px;}
+    .body{
+        margin: 0%;}
+    .header{ 
+    
+        background-color: white;   
+        width: 100%;
+        height: 100%;
+        display:flex;}
+        .logo{
+            width: 280px;
+            height: 80px;
+            display: flex;   
+            }
+            .imagelogo{
+            width: 57%;
+            height: 100%;
+            padding-left: 40%;    
+            }
+        .headtable{
+            margin-left: 70px;
+            height: 80px;
+            width: 900px;
+            padding-top: 20px;
+            display: flex;}
+            .headtable1{
+                cursor: pointer;
+            width: 11%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;   
+            }       
+            .headtable2{
+                cursor: pointer;
+            width: 11%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+            }    
+            .headtable3{
+                cursor: pointer;
+            width: 17%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+            }    
+            .headtable4{
+                cursor: pointer;
+            width: 11%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif; 
+            }    
+            .headtable5{
+                cursor: pointer;
+            width: 11%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+            }    
+            .headtable6{
+                cursor: pointer;
+            width: 17%;
+            height: 100%;
+            font-size: 17px;
+            font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+            }    
+        .searchimage{
+            width: 266PX;
+            height: 80PX;
+            display:flex ;
+            }
+            .search{
+                
+                padding-top: 3%;
+                PADDING-LEFT: 2%;
+
+                height: 14PX;
+                width: 17PX;}    
+    
+.imagelady{
+    width:1366px ;
+
+}    
+.part2{
+    text-align: center;
+    font-size: 40;
+    letter-spacing: 0px;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #f26f21;
+    margin-top: 0em;
+    margin-bottom: 0em;}
+.part3{
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-style: normal;
+    text-align: center;
+    color: #f26f21;
+    font-size: 18px;
+
+}
+.line{
+
+text-align: center;
+font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+ font-size: 50px;
+ font-weight: 10;   
+max-width: 1366px;
+position: relative;
+color: #f26f21;
+
+}
+.line:before{
+content:"";
+display: block;
+width: 500px;
+height: 2px;
+background:#f26f21;
+position: absolute;
+left: 0;
+top: 50%;
+z-index: 2;
+
+}    
+.line:after{
+    content:"";
+    display: block;
+    width: 500px;
+    height: 2px;
+    background:#f26f21;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: -2;
+    
+}
+.span{
+    background: #fff;
+}    
+.img2{
+    margin-top: 30px;
+    width: 1366px;
+    display: flex;
+}    
+.centimg{
+    margin-top: 30px;
+    width: 583px;
+    margin-left: 80px ;
+    margin-right: 20px;
+}    
+.centimg1{
+    margin-top: 30px;
+    width: 5830px;
+    margin-left: 20px ;
+    margin-right: 80px;
+}
+.para{
+    width: 1366px;
+    text-align: center;
+    color: #f26f21;
+font-size: 20px;
+    display: flex;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
+.mainhead{
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+   width: 683px;
+    text-align: center;
+    font-size: 20px;
+
+}    
+.subpara{
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal; 
+font-size: 17px;    
+width: 583px;
+text-align: justify;
+color: #747474;
+margin-left:80px ;
+margin-right: 20px;
+}    
+.subpara1{
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal; 
+font-size: 17px;    
+width: 583px;
+text-align: justify;
+color: #747474;
+margin-left: 20px;
+margin-right: 80px;
+}
+.button{
+    height: 20px;
+    width: 1366px;
+display: flex;
+background-color: #fff;
+}
+.button1{
+    font-size: 15px;
+    height: 40px;
+    text-align: center;
+    width: 200px;
+    background-color: #f26f21;
+    margin-left: 300px;
+    margin-right: 83px;
+}    
+.button2{
+    font-size: 15px;
+    height: 40px;
+    text-align: center;
+    width: 200px;
+    background-color: #f26f21;
+    margin-left: 300px;
+    margin-right: 83px;
+
+}
+.footer1{
+    margin-top: 25px;
+
+    width: 1366px;
+    background-color: #f84a76;
+    display:flex;
+margin-bottom: 0px;
+height: 40px;
+
+}
+.footer1a{
+    font-size: 20PX;
+    width: 683px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: end;
+}    
+.footer1b{
+    margin-top: 0px;
+    font-size: 20PX;
+    width: 683px;
+    text-align: start;
+    
+}    
+.footer2{
+    width: 1366px;
+    height: 25px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #fc630b;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    
+  
+}
+.footer2a{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+}    
+    
+    
+    
+    
+    
+    
+    
+       
+    
+
